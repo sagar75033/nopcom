@@ -1,0 +1,148 @@
+2024-05-23 16:41:53:,INFO:***********Test_003_Login***********:
+2024-05-23 16:41:56:,INFO:***********Verifying the login test***********:
+2024-05-23 16:42:00:,INFO:****** Providing customer info******:
+2024-05-23 16:42:14:,INFO:***** Saving customer info ****:
+2024-05-23 16:42:14:,INFO:*** Add customer validation started *******:
+2024-05-23 16:42:14:,INFO:*** Add customer Test Passed ***:
+2024-05-23 16:42:14:,INFO:*** Ending Add customer test ****:
+2024-05-23 16:42:17:,INFO:***********Test_001_Login***********:
+2024-05-23 16:42:17:,INFO:***********Verifying Home Page Title***********:
+2024-05-23 16:42:19:,INFO:***********Home page title test is passed***********:
+2024-05-23 16:42:22:,INFO:***********Verifying the login test***********:
+2024-05-23 16:42:26:,INFO:***********Login test is passed***********:
+2024-05-23 16:42:29:,INFO:***********Test_004_Search_Customer with email***********:
+2024-05-23 16:42:32:,INFO:***********Login completed***********:
+2024-05-23 16:42:32:,INFO:*********navigating to customer search page******:
+2024-05-23 16:42:33:,INFO:*********starting search customer by Name********:
+2024-05-23 16:42:37:,INFO:**********Test_004_Search_Customer by name passed**********:
+2024-05-23 16:42:42:,INFO:***********Test_004_Search_Customer with email***********:
+2024-05-23 16:42:46:,INFO:***********Login completed***********:
+2024-05-23 16:42:46:,INFO:*********navigating to customer search page******:
+2024-05-23 16:42:47:,INFO:*********starting search customer by Name********:
+2024-05-23 16:42:51:,INFO:**********Test_004_Search_Customer by Company name passed**********:
+2024-05-23 18:15:31:,INFO:***********Test_003_Login***********:
+2024-05-23 18:15:33:,INFO:***********Verifying the login test***********:
+2024-05-23 18:15:37:,INFO:****** Providing customer info******:
+2024-05-23 18:15:51:,INFO:***** Saving customer info ****:
+2024-05-23 18:15:51:,INFO:*** Add customer validation started *******:
+2024-05-23 18:15:51:,INFO:*** Add customer Test Passed ***:
+2024-05-23 18:15:51:,INFO:*** Ending Add customer test ****:
+2024-05-23 18:15:54:,INFO:***********Test_001_Login***********:
+2024-05-23 18:15:54:,INFO:***********Verifying Home Page Title***********:
+2024-05-23 18:15:56:,INFO:***********Home page title test is passed***********:
+2024-05-23 18:15:59:,INFO:***********Verifying the login test***********:
+2024-05-23 18:16:02:,INFO:***********Login test is passed***********:
+2024-05-23 18:16:04:,INFO:***********Test_004_Search_Customer with email***********:
+2024-05-23 18:16:07:,INFO:***********Login completed***********:
+2024-05-23 18:16:07:,INFO:*********navigating to customer search page******:
+2024-05-23 18:16:08:,INFO:*********starting search customer by Name********:
+2024-05-23 18:16:11:,INFO:**********Test_004_Search_Customer by name passed**********:
+2024-05-23 18:16:14:,INFO:***********Test_004_Search_Customer with email***********:
+2024-05-23 18:16:17:,INFO:***********Login completed***********:
+2024-05-23 18:16:17:,INFO:*********navigating to customer search page******:
+2024-05-23 18:16:20:,INFO:*********starting search customer by Name********:
+2024-05-23 18:16:23:,INFO:**********Test_004_Search_Customer by Company name passed**********:
+2024-05-23 21:45:08:,INFO:***********Test_003_Login***********:
+2024-05-23 21:45:10:,INFO:***********Verifying the login test***********:
+2024-05-23 21:45:14:,INFO:****** Providing customer info******:
+2024-05-23 21:45:28:,INFO:***** Saving customer info ****:
+2024-05-23 21:45:28:,INFO:*** Add customer validation started *******:
+2024-05-23 21:45:28:,INFO:*** Add customer Test Passed ***:
+2024-05-23 21:45:28:,INFO:*** Ending Add customer test ****:
+2024-05-23 21:45:33:,INFO:***********Test_001_Login***********:
+2024-05-23 21:45:33:,INFO:***********Verifying Home Page Title***********:
+2024-05-23 21:45:35:,INFO:***********Home page title test is passed***********:
+2024-05-23 21:45:38:,INFO:***********Verifying the login test***********:
+2024-05-23 21:45:42:,INFO:***********Login test is passed***********:
+2024-05-23 21:45:45:,INFO:***********Test_004_Search_Customer with email***********:
+2024-05-23 21:45:48:,INFO:***********Login completed***********:
+2024-05-23 21:45:48:,INFO:*********navigating to customer search page******:
+2024-05-23 21:45:49:,INFO:*********starting search customer by Name********:
+2024-05-23 21:45:53:,INFO:**********Test_004_Search_Customer by name passed**********:
+2024-05-23 21:45:56:,INFO:***********Test_004_Search_Customer with email***********:
+2024-05-23 21:45:59:,INFO:***********Login completed***********:
+2024-05-23 21:45:59:,INFO:*********navigating to customer search page******:
+2024-05-23 21:46:01:,INFO:*********starting search customer by Name********:
+2024-05-23 21:46:04:,INFO:**********Test_004_Search_Customer by Company name passed**********:
+2024-05-23 22:00:10:,INFO:***********Test_003_Login***********:
+2024-05-23 22:00:12:,INFO:***********Verifying the login test***********:
+2024-05-23 22:00:16:,INFO:****** Providing customer info******:
+2024-05-23 22:00:30:,INFO:***** Saving customer info ****:
+2024-05-23 22:00:30:,INFO:*** Add customer validation started *******:
+2024-05-23 22:00:30:,INFO:*** Add customer Test Passed ***:
+2024-05-23 22:00:30:,INFO:*** Ending Add customer test ****:
+2024-05-23 22:00:33:,INFO:***********Test_001_Login***********:
+2024-05-23 22:00:33:,INFO:***********Verifying Home Page Title***********:
+2024-05-23 22:00:35:,INFO:***********Home page title test is passed***********:
+2024-05-23 22:00:38:,INFO:***********Verifying the login test***********:
+2024-05-23 22:00:42:,INFO:***********Login test is passed***********:
+2024-05-23 22:00:45:,INFO:***********Test_004_Search_Customer with email***********:
+2024-05-23 22:00:48:,INFO:***********Login completed***********:
+2024-05-23 22:00:48:,INFO:*********navigating to customer search page******:
+2024-05-23 22:00:50:,INFO:*********starting search customer by Name********:
+2024-05-23 22:00:54:,INFO:**********Test_004_Search_Customer by name passed**********:
+2024-05-23 22:00:57:,INFO:***********Test_004_Search_Customer with email***********:
+2024-05-23 22:00:59:,INFO:***********Login completed***********:
+2024-05-23 22:00:59:,INFO:*********navigating to customer search page******:
+2024-05-23 22:01:01:,INFO:*********starting search customer by Name********:
+2024-05-23 22:01:04:,INFO:**********Test_004_Search_Customer by Company name passed**********:
+2024-05-23 22:02:13:,INFO:***********Test_003_Login***********:
+2024-05-23 22:02:14:,INFO:***********Verifying the login test***********:
+2024-05-23 22:02:19:,INFO:****** Providing customer info******:
+2024-05-23 22:02:33:,INFO:***** Saving customer info ****:
+2024-05-23 22:02:33:,INFO:*** Add customer validation started *******:
+2024-05-23 22:02:33:,INFO:*** Add customer Test Passed ***:
+2024-05-23 22:02:33:,INFO:*** Ending Add customer test ****:
+2024-05-23 22:02:36:,INFO:***********Test_001_Login***********:
+2024-05-23 22:02:36:,INFO:***********Verifying Home Page Title***********:
+2024-05-23 22:02:38:,INFO:***********Home page title test is passed***********:
+2024-05-23 22:02:43:,INFO:***********Verifying the login test***********:
+2024-05-23 22:02:47:,INFO:***********Login test is passed***********:
+2024-05-23 22:02:50:,INFO:***********Test_004_Search_Customer with email***********:
+2024-05-23 22:02:55:,INFO:***********Login completed***********:
+2024-05-23 22:02:55:,INFO:*********navigating to customer search page******:
+2024-05-23 22:02:57:,INFO:*********starting search customer by Name********:
+2024-05-23 22:03:01:,INFO:**********Test_004_Search_Customer by name passed**********:
+2024-05-23 22:03:04:,INFO:***********Test_004_Search_Customer with email***********:
+2024-05-23 22:03:06:,INFO:***********Login completed***********:
+2024-05-23 22:03:06:,INFO:*********navigating to customer search page******:
+2024-05-23 22:03:07:,INFO:*********starting search customer by Name********:
+2024-05-23 22:03:11:,INFO:**********Test_004_Search_Customer by Company name passed**********:
+2024-05-23 22:04:37:,INFO:***********Test_003_Login***********:
+2024-05-23 22:04:38:,INFO:***********Verifying the login test***********:
+2024-05-23 22:04:43:,INFO:****** Providing customer info******:
+2024-05-23 22:04:56:,INFO:***** Saving customer info ****:
+2024-05-23 22:04:56:,INFO:*** Add customer validation started *******:
+2024-05-23 22:04:57:,INFO:*** Add customer Test Passed ***:
+2024-05-23 22:04:57:,INFO:*** Ending Add customer test ****:
+2024-05-23 22:05:00:,INFO:***********Verifying the login test***********:
+2024-05-23 22:05:02:,INFO:***********Login test is passed***********:
+2024-05-23 22:05:05:,INFO:***********Test_004_Search_Customer with email***********:
+2024-05-23 22:05:08:,INFO:***********Login completed***********:
+2024-05-23 22:05:08:,INFO:*********navigating to customer search page******:
+2024-05-23 22:05:10:,INFO:*********starting search customer by email********:
+2024-05-23 22:05:13:,INFO:**********Test_004_Search_Customer by Email passed**********:
+2024-05-23 22:05:16:,INFO:***********Test_004_Search_Customer with email***********:
+2024-05-23 22:05:20:,INFO:***********Login completed***********:
+2024-05-23 22:05:20:,INFO:*********navigating to customer search page******:
+2024-05-23 22:05:22:,INFO:*********starting search customer by Name********:
+2024-05-23 22:05:25:,INFO:**********Test_004_Search_Customer by name passed**********:
+2024-05-24 08:51:33:,INFO:***********Test_003_Login***********:
+2024-05-24 08:51:35:,INFO:***********Verifying the login test***********:
+2024-05-24 08:51:39:,INFO:****** Providing customer info******:
+2024-05-24 08:51:53:,INFO:***** Saving customer info ****:
+2024-05-24 08:51:53:,INFO:*** Add customer validation started *******:
+2024-05-24 08:51:53:,INFO:*** Add customer Test Passed ***:
+2024-05-24 08:51:53:,INFO:*** Ending Add customer test ****:
+2024-05-24 08:51:58:,INFO:***********Verifying the login test***********:
+2024-05-24 08:52:02:,INFO:***********Login test is passed***********:
+2024-05-24 08:52:05:,INFO:***********Test_004_Search_Customer with email***********:
+2024-05-24 08:52:09:,INFO:***********Login completed***********:
+2024-05-24 08:52:09:,INFO:*********navigating to customer search page******:
+2024-05-24 08:52:10:,INFO:*********starting search customer by Name********:
+2024-05-24 08:52:14:,INFO:**********Test_004_Search_Customer by name passed**********:
+2024-05-24 09:10:19:,INFO:***********Verifying the login test***********:
+2024-05-24 09:10:27:,INFO:Test data is passed:
+2024-05-24 09:10:34:,INFO:Test data is pass:
+2024-05-24 09:10:39:,INFO:Test data is pass:
+2024-05-24 09:10:39:,INFO:Test_002_Login_ddt is pass:
